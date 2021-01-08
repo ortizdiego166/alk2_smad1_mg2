@@ -1,0 +1,84 @@
+USER  MOD reduce.3.3.160602 H: found=0, std=0, add=12, rem=0, adj=2
+USER  MOD -----------------------------------------------------------------
+USER  MOD scores for adjustable sidechains, with "set" totals for H,N and Q
+USER  MOD "o" means original, "f" means flipped, "180deg" is methyl default
+USER  MOD "!" flags a clash with an overlap of 0.40A or greater
+USER  MOD flip categories: "K"=keep, "C"=clashes, "X"=uncertain, "F"=flip
+USER  MOD Single : a 601 atp O2' :   rot  -24:sc=  0.0715
+USER  MOD Single : a 601 atp O3' :   rot  180:sc=  0.0871
+USER  MOD -----------------------------------------------------------------
+HETATM    1  PA  atp a 601      14.155  10.270 -15.535  1.00 36.74      p    P
+HETATM    2  PB  atp a 601      15.670   9.007 -13.307  1.00 44.96      p    P
+HETATM    3  PG  atp a 601      18.617   9.868 -13.415  1.00 44.43      p    P
+HETATM    4  C5' atp a 601      14.522   8.219 -17.285  1.00 36.95      p    C
+HETATM    5  O5' atp a 601      13.713   9.302 -16.713  1.00 36.49      p    O
+HETATM    6  C4' atp a 601      14.407   8.268 -18.790  1.00 36.71      p    C
+HETATM    7  O4' atp a 601      13.037   8.063 -19.188  1.00 36.24      p    O
+HETATM    8  C3' atp a 601      14.797   9.578 -19.466  1.00 38.09      p    C
+HETATM    9  O3' atp a 601      16.205   9.655 -19.583  1.00 38.08      p    O
+HETATM   10  C2' atp a 601      14.099   9.448 -20.814  1.00 40.89      p    C
+HETATM   11  O2' atp a 601      14.821   8.590 -21.698  1.00 43.22      p    O
+HETATM   12  C1' atp a 601      12.774   8.788 -20.382  1.00 37.73      p    C
+HETATM   13  N1  atp a 601       8.622  11.078 -22.369  1.00 38.02      p    N
+HETATM   14  O1A atp a 601      13.053  11.241 -15.304  1.00 32.88      p    O
+HETATM   15  O1B atp a 601      15.632   7.736 -12.604  1.00 48.69      p    O
+HETATM   16  O1G atp a 601      18.520  10.573 -12.144  1.00 42.34      p    O
+HETATM   17  C2  atp a 601       9.516  10.227 -22.892  1.00 39.65      p    C
+HETATM   18  O2A atp a 601      15.469  10.842 -15.999  1.00 32.32      p    O
+HETATM   19  O2B atp a 601      15.517  10.031 -12.214  1.00 44.38      p    O
+HETATM   20  O2G atp a 601      19.166  10.821 -14.432  1.00 37.80      p    O
+HETATM   21  N3  atp a 601      10.590   9.679 -22.303  1.00 41.11      p    N
+HETATM   22  O3A atp a 601      14.473   9.204 -14.368  1.00 39.35      p    O
+HETATM   23  O3B atp a 601      17.152   9.362 -13.738  1.00 46.43      p    O
+HETATM   24  O3G atp a 601      19.590   8.672 -13.232  1.00 48.06      p    O
+HETATM   25  C4  atp a 601      10.699  10.077 -21.024  1.00 37.33      p    C
+HETATM   26  C5  atp a 601       9.866  10.956 -20.357  1.00 36.40      p    C
+HETATM   27  C6  atp a 601       8.771  11.470 -21.078  1.00 36.65      p    C
+HETATM   28  N6  atp a 601       7.908  12.342 -20.576  1.00 34.60      p    N
+HETATM   29  N7  atp a 601      10.326  11.192 -19.070  1.00 36.05      p    N
+HETATM   30  C8  atp a 601      11.406  10.451 -18.990  1.00 36.70      p    C
+HETATM   31  N9  atp a 601      11.682   9.741 -20.135  1.00 35.87      p    N
+HETATM    0 HO3' atp a 601      16.416  10.377 -19.957  1.00 38.08      p    H   new
+HETATM    0 HO2' atp a 601      15.629   8.568 -21.469  1.00 43.22      p    H   new
+HETATM    0 HN62 atp a 601       7.255  12.626 -21.058  1.00 34.60      p    H   new
+HETATM    0 HN61 atp a 601       8.001  12.623 -19.769  1.00 34.60      p    H   new
+HETATM    0 H5'2 atp a 601      15.449   8.314 -17.016  1.00 36.95      p    H   new
+HETATM    0 H5'1 atp a 601      14.217   7.360 -16.953  1.00 36.95      p    H   new
+HETATM    0  H8  atp a 601      11.960  10.408 -18.195  1.00 36.70      p    H   new
+HETATM    0  H4' atp a 601      15.030   7.579 -19.069  1.00 36.71      p    H   new
+HETATM    0  H3' atp a 601      14.542  10.384 -18.991  1.00 38.09      p    H   new
+HETATM    0  H2' atp a 601      14.006  10.284 -21.297  1.00 40.89      p    H   new
+HETATM    0  H2  atp a 601       9.367   9.974 -23.817  1.00 39.65      p    H   new
+HETATM    0  H1' atp a 601      12.472   8.222 -21.110  1.00 37.73      p    H   new
+CONECT    1    5   14   18   22
+CONECT    2   15   19   22   23
+CONECT    3   16   20   23   24
+CONECT    4    5    6
+CONECT    5    1    4
+CONECT    6    4    7    8
+CONECT    7    6   12
+CONECT    8    6    9   10
+CONECT    9    8
+CONECT   10    8   11   12
+CONECT   11   10
+CONECT   12    7   10   31
+CONECT   13   17   27
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17   13   21
+CONECT   18    1
+CONECT   19    2
+CONECT   20    3
+CONECT   21   17   25
+CONECT   22    1    2
+CONECT   23    2    3
+CONECT   24    3
+CONECT   25   21   26   31
+CONECT   26   25   27   29
+CONECT   27   13   26   28
+CONECT   28   27
+CONECT   29   26   30
+CONECT   30   29   31
+CONECT   31   12   25   30
+END
